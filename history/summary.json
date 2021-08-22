@@ -10,29 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1550,
-    "timeDay": 1550,
-    "timeWeek": 1550,
-    "timeMonth": 1550,
-    "timeYear": 1550,
+    "time": 1479,
+    "timeDay": 1479,
+    "timeWeek": 1479,
+    "timeMonth": 1479,
+    "timeYear": 1479,
     "dailyMinutesDown": {}
   },
   {
     "name": "Skysmart",
-    "url": "https://www.skysmart.co.uk",
-    "icon": "https://favicons.githubusercontent.com/www.skysmart.co.uk",
+    "url": "https://www.skysmarty.co.uk",
+    "icon": "https://favicons.githubusercontent.com/www.skysmarty.co.uk",
     "slug": "skysmart",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   }
 ]
