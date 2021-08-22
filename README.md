@@ -1,6 +1,6 @@
 # [📈 Live Status](https://lburling.github.io/statuspage): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Gang](https://lburling.github.io/statuspage), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Gang](https://lburling.github.io/statuspage/)
 
 [![Uptime CI](https://github.com/lburling/statuspage/workflows/Uptime%20CI/badge.svg)](https://github.com/lburling/statuspage/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/lburling/statuspage/workflows/Response%20Time%20CI/badge.svg)](https://github.com/lburling/statuspage/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -21,4 +21,4 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://lburling.github.io/statuspage)
+[**Visit our status website →**](https://lburling.github.io/statuspage/)
