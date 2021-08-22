@@ -20,6 +20,7 @@ status-website:
   name: My Status Page
   introTitle: "**Status Pages"
   introMessage: This is a list of Status Pages
+  theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
