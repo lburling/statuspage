@@ -19,7 +19,7 @@ status-website:
   introMessage: This is a list of Status Pages
   navbar:
     - title: Status
-      href: /statuspage
+      href: /statuspage/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
