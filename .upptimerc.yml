@@ -3,10 +3,13 @@ owner: lburling
 repo: statuspage
 
 sites:
-  - name: Sanger
+  - name: www.sanger.ac.uk
     url: https://www.sanger.ac.uk
-  - name: Skysmart
-    url: https://www.skysmart.co.uk
+  - name: Sanger Email
+    url: https://email.sanger.ac.uk
+  - name: Sanger VPN
+    check: "tcp-ping"
+    url: wsi.gp.wgc.org.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
