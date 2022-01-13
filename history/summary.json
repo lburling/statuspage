@@ -4,18 +4,20 @@
     "url": "https://www.sanger.ac.uk",
     "icon": "https://favicons.githubusercontent.com/www.sanger.ac.uk",
     "slug": "www-sanger-ac-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3182,
-    "timeDay": 5160,
-    "timeWeek": 3805,
-    "timeMonth": 3279,
-    "timeYear": 3182,
-    "dailyMinutesDown": {}
+    "time": 3183,
+    "timeDay": 4246,
+    "timeWeek": 3746,
+    "timeMonth": 3281,
+    "timeYear": 3183,
+    "dailyMinutesDown": {
+      "2022-01-13": 0
+    }
   },
   {
     "name": "Sanger Email",
