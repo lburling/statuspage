@@ -2,7 +2,7 @@
   {
     "name": "www.sanger.ac.uk",
     "url": "https://www.sanger.ac.uk",
-    "icon": "https://favicons.githubusercontent.com/www.sanger.ac.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.sanger.ac.uk.ico",
     "slug": "www-sanger-ac-uk",
     "status": "up",
     "uptime": "99.99%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2939,
-    "timeDay": 4467,
-    "timeWeek": 4397,
-    "timeMonth": 3241,
-    "timeYear": 2928,
+    "time": 2935,
+    "timeDay": 1048,
+    "timeWeek": 4447,
+    "timeMonth": 3245,
+    "timeYear": 2921,
     "dailyMinutesDown": {
       "2022-08-01": 22,
       "2022-01-13": 17
@@ -23,7 +23,7 @@
   {
     "name": "Sanger Email",
     "url": "https://email.sanger.ac.uk",
-    "icon": "https://favicons.githubusercontent.com/email.sanger.ac.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/email.sanger.ac.uk.ico",
     "slug": "sanger-email",
     "status": "up",
     "uptime": "100.00%",
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2564,
-    "timeDay": 845,
-    "timeWeek": 2735,
-    "timeMonth": 3174,
-    "timeYear": 2575,
+    "time": 2569,
+    "timeDay": 4881,
+    "timeWeek": 3322,
+    "timeMonth": 3163,
+    "timeYear": 2585,
     "dailyMinutesDown": {}
   }
 ]
