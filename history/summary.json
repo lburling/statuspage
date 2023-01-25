@@ -24,19 +24,19 @@
     "url": "https://email.sanger.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/email.sanger.ac.uk.ico",
     "slug": "sanger-email",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 2825,
-    "timeDay": 5537,
-    "timeWeek": 2035,
-    "timeMonth": 2073,
-    "timeYear": 2925,
+    "timeDay": 3212,
+    "timeWeek": 1892,
+    "timeMonth": 2036,
+    "timeYear": 2920,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 23
     }
   }
 ]
