@@ -4,18 +4,19 @@
     "url": "https://www.sanger.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanger.ac.uk.ico",
     "slug": "www-sanger-ac-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2603,
+    "time": 2604,
     "timeDay": 901,
     "timeWeek": 882,
     "timeMonth": 1458,
     "timeYear": 2502,
     "dailyMinutesDown": {
+      "2023-05-06": 1,
       "2022-08-01": 22
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://email.sanger.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/email.sanger.ac.uk.ico",
     "slug": "sanger-email",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2636,
+    "time": 2633,
     "timeDay": 1416,
     "timeWeek": 1521,
     "timeMonth": 1477,
     "timeYear": 2692,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2023-01-25": 23
     }
   }
