@@ -1,7 +1,7 @@
 url: https://www.sanger.ac.uk
-status: up
-code: 200
-responseTime: 9049
-lastUpdated: 2024-03-04T23:16:45.731Z
+status: down
+code: 500
+responseTime: 13652
+lastUpdated: 2024-03-05T17:39:00.997Z
 startTime: 2021-08-22T14:08:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
